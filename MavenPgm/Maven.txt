@@ -1,0 +1,8 @@
+we will putour framework in Git Repo
+
+
+Jenkins- Git Repo
+
+
+Jenkins - Pom.xml - Testng.xml - Scripting - Main Functionality - Page Object Model 
+
